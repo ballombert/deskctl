@@ -1,0 +1,22 @@
+[
+  {
+    "ProcessId": 528860,
+    "TargetDesktopId": "b8c5a6e2-7f10-4d3a-9c2b-1234567890ab"
+  },
+  {
+    "ProcessId": 52220,
+    "TargetDesktopId": "12345678-1234-1234-1234-1234567890ab"
+  },
+  {
+    "ProcessId": 748896,
+    "TargetDesktopId": "b8c5a6e2-7f10-4d3a-9c2b-1234567890ab"
+  },
+  {
+    "ProcessId": 52680,
+    "TargetDesktopId": "12345678-1234-1234-1234-1234567890ab"
+  },
+  {
+    "ProcessId": 494268,
+    "TargetDesktopId": "b8c5a6e2-7f10-4d3a-9c2b-1234567890ab"
+  }
+]

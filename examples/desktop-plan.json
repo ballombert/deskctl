@@ -1,0 +1,34 @@
+[
+  {
+    "SourcePath": "C:\\Users\\Utilisateur\\Desktop\\rapport-q3.pdf",
+    "TargetPath": "C:\\Users\\Utilisateur\\Desktop\\Documents\\rapport-q3.pdf",
+    "Category": "Documents",
+    "OriginalModTime": "2026-10-21T09:30:00Z",
+    "OriginalSize": 1048576,
+    "Status": "Planned"
+  },
+  {
+    "SourcePath": "C:\\Users\\Utilisateur\\Desktop\\capture-ecran.png",
+    "TargetPath": "C:\\Users\\Utilisateur\\Desktop\\Images\\capture-ecran.png",
+    "Category": "Images",
+    "OriginalModTime": "2026-10-21T10:15:00Z",
+    "OriginalSize": 524288,
+    "Status": "Planned"
+  },
+  {
+    "SourcePath": "C:\\Users\\Utilisateur\\Desktop\\Slack.lnk",
+    "TargetPath": "C:\\Users\\Utilisateur\\Desktop\\Raccourcis\\Slack.lnk",
+    "Category": "Raccourcis",
+    "OriginalModTime": "2026-09-01T08:00:00Z",
+    "OriginalSize": 2048,
+    "Status": "Planned"
+  },
+  {
+    "SourcePath": "C:\\Users\\Utilisateur\\Desktop\\installer.msi",
+    "TargetPath": "C:\\Users\\Utilisateur\\Desktop\\Installateurs\\installer.msi",
+    "Category": "Installateurs",
+    "OriginalModTime": "2026-10-15T14:20:00Z",
+    "OriginalSize": 45000000,
+    "Status": "Planned"
+  }
+]

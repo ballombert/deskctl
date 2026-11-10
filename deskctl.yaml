@@ -1,0 +1,8 @@
+# Configuration deskctl (réécrite par l'interface ; les commentaires ne sont pas conservés)
+version: 1
+fancywm:
+    executable: fancywm
+    display_indices: {}
+tiling:
+    engine: auto
+    gap: 8

@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "id": "exemple-deskctl",
+      "name": "Projet deskctl",
+      "enabled": false,
+      "application": "^Code$",
+      "title": "deskctl",
+      "desktopId": "b8c5a6e2-7f10-4d3a-9c2b-1234567890ab"
+    },
+    {
+      "id": "exemple-poste-dev",
+      "name": "Poste dev : éditeur 60 % | navigateur + terminal empilés",
+      "enabled": false,
+      "desktopId": "b8c5a6e2-7f10-4d3a-9c2b-1234567890ab",
+      "displayId": "\\\\.\\DISPLAY1",
+      "groupId": "poste-dev"
+    }
+  ],
+  "groups": [
+    {
+      "id": "poste-dev",
+      "name": "Poste développement",
+      "zone": { "x": 0, "y": 0, "width": 1, "height": 1 },
+      "layout": {
+        "kind": "group",
+        "axis": "h",
+        "weight": 100,
+        "children": [
+          { "kind": "window", "weight": 60, "application": "^Code$" },
+          {
+            "kind": "group",
+            "axis": "v",
+            "weight": 40,
+            "children": [
+              { "kind": "window", "weight": 65, "application": "^(msedge|chrome|firefox)$" },
+              { "kind": "window", "weight": 35, "application": "^WindowsTerminal$" }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

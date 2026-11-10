@@ -1,0 +1,17 @@
+{
+  "CreatedAt": "2026-10-21T10:00:00Z",
+  "Entries": [
+    {
+      "OriginalSource": "C:\\Users\\Utilisateur\\Desktop\\rapport-q3.pdf",
+      "CurrentTarget": "C:\\Users\\Utilisateur\\Desktop\\Documents\\rapport-q3.pdf",
+      "MovedAt": "2026-10-21T10:00:01Z",
+      "Size": 1048576
+    },
+    {
+      "OriginalSource": "C:\\Users\\Utilisateur\\Desktop\\capture-ecran.png",
+      "CurrentTarget": "C:\\Users\\Utilisateur\\Desktop\\Images\\capture-ecran.png",
+      "MovedAt": "2026-10-21T10:00:02Z",
+      "Size": 524288
+    }
+  ]
+}

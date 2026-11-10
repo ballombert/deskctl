@@ -1,0 +1,42 @@
+[
+  {
+    "ProcessId": 528860,
+    "WindowId": 1435116,
+    "ProcessName": "Code",
+    "WindowTitle": "Projet exemple - Visual Studio Code",
+    "DesktopId": "b8c5a6e2-7f10-4d3a-9c2b-1234567890ab",
+    "DesktopName": "Dev"
+  },
+  {
+    "ProcessId": 52220,
+    "WindowId": 853204,
+    "ProcessName": "devenv",
+    "WindowTitle": "Projet exemple - Microsoft Visual Studio",
+    "DesktopId": "12345678-1234-1234-1234-1234567890ab",
+    "DesktopName": "Web"
+  },
+  {
+    "ProcessId": 748896,
+    "WindowId": 1246902,
+    "ProcessName": "zen",
+    "WindowTitle": "Documentation du projet - Zen Browser",
+    "DesktopId": "b8c5a6e2-7f10-4d3a-9c2b-1234567890ab",
+    "DesktopName": "Dev"
+  },
+  {
+    "ProcessId": 52680,
+    "WindowId": 919372,
+    "ProcessName": "ms-teams",
+    "WindowTitle": "Communautés et storyline | Partage technique | Microsoft Teams",
+    "DesktopId": "12345678-1234-1234-1234-1234567890ab",
+    "DesktopName": "Web"
+  },
+  {
+    "ProcessId": 494268,
+    "WindowId": 721844,
+    "ProcessName": "WindowsTerminal",
+    "WindowTitle": "Terminal de demonstration",
+    "DesktopId": "b8c5a6e2-7f10-4d3a-9c2b-1234567890ab",
+    "DesktopName": "Dev"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "Categories": {
+    "Documents": [
+      ".pdf",
+      ".docx",
+      ".doc",
+      ".xlsx",
+      ".xls",
+      ".pptx",
+      ".txt",
+      ".md",
+      ".csv",
+      ".odt"
+    ],
+    "Images": [
+      ".png",
+      ".jpg",
+      ".jpeg",
+      ".gif",
+      ".svg",
+      ".bmp",
+      ".webp",
+      ".ico"
+    ],
+    "Archives": [
+      ".zip",
+      ".tar",
+      ".gz",
+      ".7z",
+      ".rar"
+    ],
+    "Installateurs": [
+      ".exe",
+      ".msi",
+      ".iso",
+      ".dmg"
+    ],
+    "Raccourcis": [
+      ".lnk",
+      ".url"
+    ],
+    "Autres": []
+  },
+  "FallbackCategory": "Autres"
+}
